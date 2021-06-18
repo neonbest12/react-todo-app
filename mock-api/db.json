@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Pratish",
+      "lastName": "Shrestha",
+      "address": "Kathmandu",
+      "designation": "Associate Software Enginner",
+      "dob": "2020-04-04",
+      "designation_value": {
+        "label": "Associate Software Enginner",
+        "value": "Associate Software Enginner"
+      }
+    },
+    {
+      "id": 2,
+      "firstName": "Pratish",
+      "lastName": "Shrestha",
+      "address": "Bhaktapur",
+      "designation": "SSE",
+      "dob": "2020-04-04"
+    },
+    {
+      "firstName": "Test",
+      "lastName": "TEst",
+      "designation": "test",
+      "address": "test",
+      "dob": "2020-04-29",
+      "id": 3
+    },
+    {
+      "firstName": "pra",
+      "lastName": "asdfa",
+      "designation": "Finance Officer",
+      "address": "asd",
+      "dob": "2021-06-14",
+      "designation_value": {
+        "label": "Finance Officer",
+        "value": "Finance Officer"
+      },
+      "id": 4
+    }
+  ]
+}
